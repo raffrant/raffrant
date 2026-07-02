@@ -1,6 +1,3 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 
 ###
 
