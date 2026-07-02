@@ -1,23 +1,4 @@
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/rafail-frantzeskakis-919140200/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn logo" />
-  </a>
-  <a href="https://x.com/rafail_fr" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="25" alt="X logo" />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=raffrant.raffrant" alt="visitor badge" />
-</div>
-
-###
-
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there 👋 I'm Rafail</h1>
 
 ###
 
@@ -26,9 +7,12 @@
 ###
 
 <p align="left">
-I am Rafail, a research engineer passionate about deep tech and clever ideas. I write code daily.<br><br>
-- 📚 I'm currently learning C++ and how to build hardware (FPGAs).<br>
-- ⚡ In my free time, I play basketball, chess, and I travel.
+I’m a research engineer drawn to deep tech, mathematical thinking, and ambitious ideas.<br>
+My work sits at the intersection of physics, optimization, simulation, and intelligent systems — and I write code every day to turn ideas into useful tools.<br><br>
+
+- 🚀 I’m especially interested in quantum technologies, quantitative modelling, high-performance computing, and practical AI.<br>
+- 📚 Right now, I’m learning modern C++ and how to build hardware with FPGAs.<br>
+- 🏀 Outside of work, I enjoy basketball, chess, and traveling.
 </p>
 
 ###
@@ -52,7 +36,12 @@ I am Rafail, a research engineer passionate about deep tech and clever ideas. I 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=raffrant&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=8" height="220" alt="GitHub streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raffrant&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=raffrant&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=8" height="165" alt="GitHub streak graph" />
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=raffrant&limit=5&theme=transparent&combine_all_yearly_contributions=true" height="150" alt="Top contributed repositories" />
+</div>
