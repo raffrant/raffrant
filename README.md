@@ -5,16 +5,15 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 ###
-
 <p align="left">
-I’m a research engineer drawn to deep tech, mathematical thinking, and ambitious ideas.<br>
-My work sits at the intersection of physics, optimization, simulation, and intelligent systems — and I write code every day to turn ideas into useful tools.<br><br>
+I’m a research engineer passionate about deep tech, clever ideas, and building things that work in practice.<br>
+My work focuses on the control of quantum systems, with a strong interest in modeling, optimization, and computational methods.<br><br>
 
 - 🚀 I’m especially interested in quantum technologies, quantitative modelling, high-performance computing, and practical AI.<br>
 - 📚 Right now, I’m learning modern C++ and how to build hardware with FPGAs.<br>
-- 🏀 Outside of work, I enjoy basketball, chess, and traveling.
+- ⚽ In my free time, I build machine learning algorithms for sports data.<br>
+- 🏀 I also enjoy basketball, chess, and traveling.
 </p>
-
 ###
 
 <h3 align="left">🛠 Languages and tools</h3>
