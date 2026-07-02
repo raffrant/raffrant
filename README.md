@@ -35,7 +35,6 @@ My work focuses on the control of quantum systems, with a strong interest in mod
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raffrant&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=raffrant&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=8" height="165" alt="GitHub streak graph" />
 </div>
 
