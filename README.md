@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋 I'm Rafail</h1>
+<h1 align="center">Hey there 👋 </h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 <p align="left">
-I’m a research engineer passionate about deep tech, clever ideas, and building things that work in practice.<br>
+I'm Rafail, a research engineer passionate about deep tech, clever ideas, and building things that work in practice.<br>
 My work focuses on the control of quantum systems, with a strong interest in modeling, optimization, and computational methods.<br><br>
 
 - 🚀 I’m especially interested in quantum technologies, quantitative modelling, high-performance computing, and practical AI.<br>
