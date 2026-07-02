@@ -41,6 +41,3 @@ My work focuses on the control of quantum systems, with a strong interest in mod
 
 ###
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=raffrant&limit=5&theme=transparent&combine_all_yearly_contributions=true" height="150" alt="Top contributed repositories" />
-</div>
