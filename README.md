@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/rafail-frantzeskakis-919140200/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
   <a href="https://x.com/rafail_fr" target="_blank" rel="noopener noreferrer">
