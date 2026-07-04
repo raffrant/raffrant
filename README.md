@@ -10,7 +10,7 @@ I'm Rafail, a research engineer passionate about deep tech, clever ideas, and bu
 My work focuses on the control of quantum systems, with a strong interest in modeling, optimization, and computational methods.<br><br>
 
 - 🚀 I’m especially interested in quantum technologies, quantitative modelling, high-performance computing, and practical AI.<br>
-- 📚 Right now, I’m learning modern C++ and how to build hardware with FPGAs.<br>
+- 📚 Right now, I’m learning how to excel in modern C++ and how to build hardware with FPGAs.<br>
 - ⚽ In my free time, I build machine learning algorithms for sports data.<br>
 - 🏀 I also enjoy basketball, chess, and traveling.
 </p>
