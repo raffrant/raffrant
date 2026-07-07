@@ -30,13 +30,4 @@ My work focuses on the control of quantum systems, with a strong interest in mod
 
 ###
 
-<h3 align="left">🔥 My Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=raffrant&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=8" height="165" alt="GitHub streak graph" />
-</div>
-
-###
 
