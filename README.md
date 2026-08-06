@@ -29,5 +29,4 @@ My work focuses on the control of quantum systems, with a strong interest in mod
 </div>
 
 ###
-
-
+Feel free to drop a message at X or LinkedIn if you have any questions regarding my repos.
